@@ -1,2 +1,2 @@
-include ':myRefresh', ':updateversion'
+include ':myRefresh', ':updateversion', ':greendao'
 
