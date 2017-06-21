@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\android\\H\\updateversion\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dialog_cancel.9.png",
+        "source": "D:\\android\\H\\updateversion\\src\\main\\res\\drawable-xhdpi\\dialog_cancel.9.png"
+    },
+    {
+        "merged": "D:\\android\\H\\updateversion\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\android\\H\\updateversion\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\android\\H\\updateversion\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dialog_make_sure_p.9.png",
+        "source": "D:\\android\\H\\updateversion\\src\\main\\res\\drawable-xhdpi\\dialog_make_sure_p.9.png"
+    },
+    {
+        "merged": "D:\\android\\H\\updateversion\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dialog_cancel_p.9.png",
+        "source": "D:\\android\\H\\updateversion\\src\\main\\res\\drawable-xhdpi\\dialog_cancel_p.9.png"
+    },
+    {
+        "merged": "D:\\android\\H\\updateversion\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\dialog_make_sure.9.png",
+        "source": "D:\\android\\H\\updateversion\\src\\main\\res\\drawable-xhdpi\\dialog_make_sure.9.png"
+    }
+]

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 白色 -->
+    <color name="white">#FFFFFF</color>
+    
+    <!-- 黑色 -->
+    <color name="black">#333333</color>
+    
+    <!-- 基底颜色 -->
+    <color name="appbg">#ffe5e4e4</color>
+    
+    <!-- 登入灰色 -->
+     <color name="login_gray">#55000000</color>
+     
+    <!-- 登录按钮色 -->
+    <color name="green">#4fbfb0</color>
+    
+    <color name="line">#CCCCCC</color>
+    
+    <color name="bg">#1A1A1A</color>
+    
+    <!-- 按钮不可点击的颜色 -->
+    <color name="btn_enable">#848484</color>
+    
+    <!-- 按钮可点击的颜色 -->
+    <color name="btn_nable">#3B3B3B</color>
+    
+    <!-- 红色 -->
+    <color name="red">#FF3030</color>
+    
+    <!-- 文本颜色 -->
+    <color name="textColor">#757575</color>
+    
+    <!-- 选中的颜色 -->
+    <color name="selected">#FF3030</color>
+    
+    <!-- 未选中的颜色 -->
+    <color name="no_selected">#000000</color>
+    
+    <!-- 蓝色 -->
+    <color name="blue">#3a80d3</color>
+    
+    <!-- 浅灰色 -->
+    <color name="bg_Gray_light">#EEEEEE</color>
+    
+    <!-- 线条颜色 -->
+    <color name="view_line_color">#33000000</color>
+    <!-- 线条颜色2 -->
+    <color name="view_line_color2">#20000000</color>
+    <!-- 船舶相關頭部顏色 -->
+    <color name="title_color">#22000000</color>
+    
+    <!-- winfomapview -->
+    <color name="winfoDNCView_color">#9CB6CE</color>
+    
+    <!-- 船舶管理 字段值的颜色 -->
+    <color name="ship_manager_textcolor">#808080</color>
+    
+    <!-- 设置中的小字体 -->
+    <color name="setting_small_text_color">#77000000</color>
+    
+    <!-- login_text_color -->
+    <color name="login_text_color">#3f3f3f</color>
+    
+    <!--消息背景 -->
+    <color name="msg_pop_bg">#ecf3f8</color>
+    
+    <!-- nearby_bg -->
+    <color name="nearby_bg">#E0E0E0</color>
+    
+    <!-- nearby_text_color -->
+    <color name="neaby_text_color">#EE4000</color>
+    
+    <!-- 附近的背景 -->
+    <color name="nearby_list_bg">#3a80d3</color>
+    
+    <!-- 分页的背景 -->
+    <color name="page_bg">#E5E5E5</color>
+    
+    <!-- 分页——的按钮的颜色 -->
+    <color name="page_button_color">#3B3B3B</color>
+    
+    <color name="toast_bg">#EDEDED</color>
+    
+    <color name="pressed_color">#c4c4c4</color>
+    
+    <!-- 选择界面点击登入字体颜色 -->
+    
+    <color name="login_text_press">#BDBDBD</color>
+</resources>
