@@ -1,2 +1,2 @@
-include ':myRefresh', ':updateversion', ':greendao', ':mymvpdemo'
+include ':myRefresh', ':updateversion', ':greendao', ':mymvpdemo', ':myloop'
 
