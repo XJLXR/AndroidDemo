@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\NewWorkSpace\\AndroidDemo\\Shopcart\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\s_jr_ico.png",
+        "source": "D:\\NewWorkSpace\\AndroidDemo\\Shopcart\\src\\main\\res\\drawable-xhdpi\\s_jr_ico.png"
+    },
+    {
+        "merged": "D:\\NewWorkSpace\\AndroidDemo\\Shopcart\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\topbar_up.png",
+        "source": "D:\\NewWorkSpace\\AndroidDemo\\Shopcart\\src\\main\\res\\drawable-xhdpi\\topbar_up.png"
+    },
+    {
+        "merged": "D:\\NewWorkSpace\\AndroidDemo\\Shopcart\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\shop_ico.png",
+        "source": "D:\\NewWorkSpace\\AndroidDemo\\Shopcart\\src\\main\\res\\drawable-xhdpi\\shop_ico.png"
+    },
+    {
+        "merged": "D:\\NewWorkSpace\\AndroidDemo\\Shopcart\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\NewWorkSpace\\AndroidDemo\\Shopcart\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\NewWorkSpace\\AndroidDemo\\Shopcart\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\topbar_background.9.png",
+        "source": "D:\\NewWorkSpace\\AndroidDemo\\Shopcart\\src\\main\\res\\drawable-xhdpi\\topbar_background.9.png"
+    },
+    {
+        "merged": "D:\\NewWorkSpace\\AndroidDemo\\Shopcart\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\checkbox_normal.png",
+        "source": "D:\\NewWorkSpace\\AndroidDemo\\Shopcart\\src\\main\\res\\drawable-xhdpi\\checkbox_normal.png"
+    },
+    {
+        "merged": "D:\\NewWorkSpace\\AndroidDemo\\Shopcart\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\checkbox_checked.png",
+        "source": "D:\\NewWorkSpace\\AndroidDemo\\Shopcart\\src\\main\\res\\drawable-xhdpi\\checkbox_checked.png"
+    }
+]
