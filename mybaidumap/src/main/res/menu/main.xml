@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:showAsAction="never"
+        android:id="@+id/baidu_common"
+        android:title="普通地图"/>
+
+    <item
+        android:showAsAction="never"
+        android:id="@+id/baidu_site"
+        android:title="卫星地图"/>
+
+    <item
+        android:showAsAction="never"
+        android:id="@+id/baidu_traffic"
+        android:title="实时交通(off)"/>
+
+    <item
+        android:showAsAction="never"
+        android:id="@+id/baidu_mylocation"
+        android:title="我的位置"/>
+
+    <item
+        android:showAsAction="never"
+        android:id="@+id/baidu_mode_common"
+        android:title="普通模式"/>
+
+    <item
+        android:showAsAction="never"
+        android:id="@+id/baidu_mode_follow"
+        android:title="跟随模式"/>
+
+    <item
+        android:showAsAction="never"
+        android:id="@+id/baidu_mode_compass"
+        android:title="罗盘模式"/>
+
+</menu>
