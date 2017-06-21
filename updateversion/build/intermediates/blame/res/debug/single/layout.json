@@ -1,19 +1,7 @@
 [
     {
-        "merged": "D:\\android\\H\\updateversion\\build\\intermediates\\res\\merged\\debug\\layout\\notifycation.xml",
-        "source": "D:\\android\\H\\updateversion\\src\\main\\res\\layout\\notifycation.xml"
-    },
-    {
-        "merged": "D:\\android\\H\\updateversion\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "D:\\android\\H\\updateversion\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
         "merged": "D:\\NewWorkSpace\\AndroidDemo\\updateversion\\build\\intermediates\\res\\merged\\debug\\layout\\version_update_dialog.xml",
         "source": "D:\\NewWorkSpace\\AndroidDemo\\updateversion\\src\\main\\res\\layout\\version_update_dialog.xml"
-    },
-    {
-        "merged": "D:\\android\\H\\updateversion\\build\\intermediates\\res\\merged\\debug\\layout\\version_update_dialog.xml",
-        "source": "D:\\android\\H\\updateversion\\src\\main\\res\\layout\\version_update_dialog.xml"
     },
     {
         "merged": "D:\\NewWorkSpace\\AndroidDemo\\updateversion\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",

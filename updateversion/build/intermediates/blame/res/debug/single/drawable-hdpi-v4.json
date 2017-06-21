@@ -8,22 +8,6 @@
         "source": "D:\\NewWorkSpace\\AndroidDemo\\updateversion\\src\\main\\res\\drawable-hdpi\\dialog_cancel_btn_bg.xml"
     },
     {
-        "merged": "D:\\android\\H\\updateversion\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_bg.xml",
-        "source": "D:\\android\\H\\updateversion\\src\\main\\res\\drawable-hdpi\\dialog_bg.xml"
-    },
-    {
-        "merged": "D:\\android\\H\\updateversion\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_ok_btn_bg.xml",
-        "source": "D:\\android\\H\\updateversion\\src\\main\\res\\drawable-hdpi\\dialog_ok_btn_bg.xml"
-    },
-    {
-        "merged": "D:\\android\\H\\updateversion\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_cancel_btn_bg.xml",
-        "source": "D:\\android\\H\\updateversion\\src\\main\\res\\drawable-hdpi\\dialog_cancel_btn_bg.xml"
-    },
-    {
-        "merged": "D:\\android\\H\\updateversion\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "D:\\android\\H\\updateversion\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
-    },
-    {
         "merged": "D:\\NewWorkSpace\\AndroidDemo\\updateversion\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_ok_btn_bg.xml",
         "source": "D:\\NewWorkSpace\\AndroidDemo\\updateversion\\src\\main\\res\\drawable-hdpi\\dialog_ok_btn_bg.xml"
     }
