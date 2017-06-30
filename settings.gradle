@@ -1,2 +1,2 @@
-include ':myRefresh', ':updateversion', ':greendao', ':mymvpdemo', ':myloop', ':TabLayout', 'Shopcart', ':addimagedemo', ':mybaidumap', ':mydragger'
+include ':myRefresh', ':updateversion', ':greendao', ':mymvpdemo', ':myloop', ':TabLayout', 'Shopcart', ':addimagedemo', ':mybaidumap', ':mydragger', ':myrxjavaretrofit'
 
