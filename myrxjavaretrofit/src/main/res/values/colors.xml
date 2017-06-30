@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="blue_background">#1976D2</color>
+    <color name="teal_background">#00796B</color>
+    <color name="orange_background">#F57C00</color>
+    <color name="red_background">#D32F2F</color>
+    <color name="purple_background">#7B1FA2</color>
+
+    <color name="transparent_button_pressed">#44444444</color>
+    <color name="transparent_button_focused">#44666666</color>
+
+    <!--RefreshLayout-->
+    <color name="refresh_progress_1">#536DFE</color>
+    <color name="refresh_progress_2">#f44336</color>
+    <color name="refresh_progress_3">#FF4081</color>
+</resources>
